@@ -1,0 +1,17 @@
+{
+  "name": "STREET MONEY",
+  "symbol": "SRTM",
+  "web": "https://modfxmarket.com/",
+  "explorer": "https://viewblock.io/zilliqa/address/zil1rn370csquh9c6j36w926haly0myu4uze0ht3tq",
+  "links": {
+    "github": "StreetMoneyBSC",
+    "coingecko": "street money",
+    "twitter": "streetmoneybsc",
+    "facebook": "cryptostreet",
+    "telegram": "streetbsc",
+    "reddit": "r/streetmoneybsc"
+  },
+  "gen": {
+    "logo": "logo.png"
+  }
+}
